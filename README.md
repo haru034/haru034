@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<!-- GitHub Statsの表示 -->
+# https://github-readme-stats.vercel.app/api?username=haru034&count_private=true&show_icons=true&theme=dracula
+<!-- Languagesの表示 -->
+# https://github-readme-stats.vercel.app/api/top-langs/?username=haru034&layout=compact&theme=dracula
 <!--
 **haru034/haru034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
