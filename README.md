@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! Nice to see you. 👋
 <!-- GitHub Statsの表示 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haru034&show_icons=true&theme=dracula)]
 <!-- Languagesの表示 -->
