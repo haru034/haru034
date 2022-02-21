@@ -1,9 +1,8 @@
 ### Hi there 👋
 <!-- GitHub Statsの表示 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?haru034=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haru034)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Languagesの表示 -->
-# https://github-readme-stats.vercel.app/api/top-langs/?username=haru034&layout=compact&theme=dracula
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haru034)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **haru034/haru034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
